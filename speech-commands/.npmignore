@@ -2,7 +2,6 @@
 .vscode/
 .rpt2_cache/
 demo/
-scripts/
 src/
 training/
 coverage/
